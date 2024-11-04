@@ -1,0 +1,5 @@
+type: file # or blob
+file_type: text #or csv
+base_dir: "documents"
+file_encoding: utf-8
+file_pattern: "*\\.md$"
