@@ -1,5 +1,6 @@
 from langchain_core.documents import Document
 
+
 # Create and add metadata to documents
 
 # Creating list of documents
